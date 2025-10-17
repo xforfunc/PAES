@@ -14,7 +14,7 @@ Respecting the heavy constraints on the attack surface — but also the potentia
 
 ## **Definition**
 
-**Point of Adversarial-Example Success (PAES)** —
+**Point of Adversarial-Example Success (PAES)** 
 
 The number of inference-time adversarial queries q required for an attacker to achieve a targeted misclassification under a black-box, decision-based attack model.
 
@@ -24,7 +24,7 @@ The **Adversarial Success Rate (ASR)**, as defined in *Croce & Hein (2020)* and 
 
 PAES re-expresses this concept for operational-security settings, focusing not on the overall fraction of successful attacks, but on the *effort or query count required* to achieve the first success.
 
-**Side metric – FLOPs Until Success (FUSS)** —
+**Side metric – FLOPs Until Success (FUSS)** 
 
 A hardware-agnostic estimate of compute cost, intended as a long-term indicator of the arms race between attacker and defender. FUSS is derived directly from PAES.
 
