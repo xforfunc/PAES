@@ -32,7 +32,7 @@ A hardware-agnostic estimate of compute cost, intended as a long-term indicator 
 
 ## **1 Trustworthiness and Application**
 
-**Aspect:** Security → Robustness under targeted, black-box attacks.
+**Aspect:** Security -> Robustness under targeted, black-box attacks.
 
 **Goal:** Measure the operational robustness of image classifiers (e.g. facial-recognition systems) under targeted, decision-based black-box attacks.
 
